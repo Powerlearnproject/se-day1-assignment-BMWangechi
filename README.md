@@ -30,11 +30,12 @@ The rise of Object-Oriented Programming (OOP) to further simplify software desig
 - DevOps and Continuous Integration/Continuous Deployment (CI/CD) enable faster and more reliable software delivery.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-1. Planning - identify the software requirement or purpose and scope.
-2. Requirement analysis - identify the final user specification. 
-3. Design - building the framework. 
-4. Coding - converting software design into tangible code.
-5. Testing - examine the software for any bugs and glitches
+1. Planning - identify the software requirement or purpose and scope.2. Requirement analysis - identify the final user specification. 
+2. Design - building the framework. 
+3. Development - converting software design into tangible code and breaking it to small managebale parts.
+4. Testing - examine the software for any bugs and glitches.
+5. Deployment - this is launching the software for user availability.
+6. Maintenance - this involves taking care of the software, fixing any bugs, adding new features and updating the software.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodology - Linear and sequential, each phase is completed before moving on. 
